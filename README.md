@@ -70,10 +70,12 @@ python manage.py runserver
 Si deseas verlo en toda tu red puedes ejecutarlo asi:
 
 Opcion Uno (1):
+
 ```bash
 python manage.py runserver 0:8000
 ```
 Opcion Dos (2):
+
 ```bash
 python manage.py runserver 0.0.0.0:8000
 ```
@@ -89,4 +91,4 @@ password: IchiBan
 
 #  Gracias por su atencion ✅
 
-***KSM, 2024.***
+*** KSM, 2024.***
