@@ -11,7 +11,7 @@ Este proyecto inicia con la necesidad de controlar las operaciones diarias en la
 |:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | `Compilador`             | Python3                                               |
 | `IDE de programación`    | Visual Studio Code , Sublime Text , Atom , Vim , etc. |
-| `FrameWorks` |  [Reflex](https://reflex.io/ "Reflex")                            |
+| `FrameWorks` |  [Reflex](https://reflex.dev/ "Reflex")                            |
 | `Motor de base de datos` | MySQL , PostgreSQL , Sqlite3                          |
 
 # Pasos de instalación
