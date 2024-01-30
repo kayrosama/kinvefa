@@ -11,7 +11,7 @@ Este proyecto inicia con la necesidad de controlar las operaciones diarias en la
 |:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | `Compilador`             | Python3                                               |
 | `IDE de programación`    | Visual Studio Code , Sublime Text , Atom , Vim , etc. |
-| `FrameWorks` | Reflex (https://reflex.io/)                          |
+| `FrameWorks` |  [Reflex](https://reflex.io/ "Reflex")                            |
 | `Motor de base de datos` | MySQL , PostgreSQL , Sqlite3                          |
 
 # Pasos de instalación
@@ -60,6 +60,7 @@ python manage.py runserver
 ```
 
 Si deseas verlo en toda tu red puedes ejecutarlo asi:
+
 Opcion Uno (1):
 ```bash
 python manage.py runserver 0:8000
